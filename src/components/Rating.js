@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
   },
   ratingText: {
     color: '#777',
+    marginLeft: 2,
   },
 });
 export default Rating;

@@ -38,9 +38,11 @@ export default function index() {
           em trong nắng xuân hồng
         </Text>
       </View>
-      <OptionMoreList />
-      <OptionMoreList />
-      <OptionMoreList />
+      <View style={{marginBottom: 50}}>
+        <OptionMoreList />
+        <OptionMoreList />
+        <OptionMoreList />
+      </View>
     </ScrollView>
   );
 }
